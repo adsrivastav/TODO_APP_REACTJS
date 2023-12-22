@@ -43,7 +43,7 @@ Folder Structure
 The folder structure of the project:
 
 
-react-todo-app/
+```react-todo-app/
   ├── public/
   ├── src/
   │   ├── components/
@@ -54,7 +54,7 @@ react-todo-app/
   ├── package.json
   ├── README.md
   └── ... (other files and directories)
-
+```
 
 
 
