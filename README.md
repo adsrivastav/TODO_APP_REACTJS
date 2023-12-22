@@ -20,7 +20,7 @@ This is a simple Todo App built using ReactJS.
 
 1. Clone the repository:
 
- -->  git clone https://github.com/your-username/react-todo-app.git
+ -->  git clone https://github.com/adsrivastav/TODO_APP_REACTJS/tree/main
 ##Navigate to the project directory:
 
 
